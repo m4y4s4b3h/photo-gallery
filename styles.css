@@ -55,7 +55,7 @@ img {
   align-items: center;
   margin: 10px;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
 div {
   display: flex;
   margin-bottom: 100px;
@@ -80,7 +80,7 @@ h3 {
 section {
     display: flex;
     margin-top: 150px;
-    
+
 
   }
 article {
