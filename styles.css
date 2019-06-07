@@ -28,6 +28,7 @@ h1 {
     display: flex;
     justify-content: center;
     background-color: white !important;
+    color
 }
 input {
     position: absolute;
